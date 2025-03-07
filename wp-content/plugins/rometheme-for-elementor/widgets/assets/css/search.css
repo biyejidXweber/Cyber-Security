@@ -1,0 +1,22 @@
+.rkit-search-button {
+    background-color: #33E4C0;
+    padding: 8px;
+    display: flex !important;
+    align-items: center;
+}
+
+.rkit-search-input {
+    outline: none;
+}
+
+.rkit-search-input:focus {
+    outline: none;
+}
+
+.rkit-search {
+    overflow: hidden;
+}
+
+.rkit-search-icon {
+    font-size: 20px;
+}
